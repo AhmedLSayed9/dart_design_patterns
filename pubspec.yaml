@@ -1,0 +1,13 @@
+name: dart_design_patterns
+description: Head First Design Patterns implemented in Dart.
+version: 1.0.0
+repository: https://github.com/AhmedLSayed9/dart_design_patterns
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+
+dev_dependencies:
+  very_good_analysis: ^5.0.0+1
+  test: ^1.24.4
