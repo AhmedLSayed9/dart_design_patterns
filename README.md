@@ -2,4 +2,4 @@
 
 ## Patterns
 
-- ### [Strategy Pattern](https://github.com/AhmedLSayed9/dart_design_patterns/tree/master/lib/strategy)
+- ### [Strategy Pattern](https://github.com/AhmedLSayed9/dart_design_patterns/tree/main/lib/strategy)
