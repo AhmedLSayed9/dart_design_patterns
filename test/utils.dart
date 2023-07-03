@@ -1,6 +1,6 @@
 import 'dart:async';
 
-R testPrint<R>(R Function(List<String> prints) body) {
+void testPrint(void Function(List<String> prints) body) {
   final prints = <String>[];
   return runZoned(
     () => body(prints),
