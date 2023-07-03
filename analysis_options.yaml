@@ -26,3 +26,4 @@ linter:
     directives_ordering: false # Conflicts with import_sorter
     avoid_multiple_declarations_per_line: false
     one_member_abstracts: false
+    avoid_print: false
