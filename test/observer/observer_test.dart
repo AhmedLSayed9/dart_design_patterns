@@ -5,7 +5,7 @@ import 'package:test/test.dart';
 import '../utils.dart';
 
 void main() {
-  test('Should update all observers', () {
+  test('Should notify all observers', () {
     final weatherStation = WeatherStation();
     final temperatureDisplay = TemperatureDisplay(weatherStation);
     final pressureDisplay = PressureDisplay(weatherStation);
